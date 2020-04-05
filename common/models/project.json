@@ -21,7 +21,6 @@
   },
   "validations": [],
   "scope": {
-    "limit": 10,
     "include": "client"
   },
   "relations": {
