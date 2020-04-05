@@ -16,5 +16,9 @@
   "Client": {
     "dataSource": "mysql",
     "public": true
+  },
+  "Project": {
+    "dataSource": "mysql",
+    "public": true
   }
 }
