@@ -1,12 +1,12 @@
 {
   "mysql": {
-    "host": "127.0.0.1",
+    "host": "35.223.28.204",
     "port": 3306,
     "url": "",
-    "database": "method_staging",
-    "password": "P@ssWord!",
-    "name": "mysql",
-    "user": "root",
+    "database": "methoddb",
+    "password": "M3th0ds@",
+    "name": "methodsa",
+    "user": "methodsa",
     "connector": "mysql"
   }
 }

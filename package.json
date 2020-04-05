@@ -6,9 +6,9 @@
     "node": ">=6"
   },
   "scripts": {
-    "dev": "PORT=3001 nodemon --watch .",
+    "dev": "PORT=3001 NODE_ENV=development nodemon --watch .",
     "lint": "eslint .",
-    "start": "node .",
+    "start": "PORT=3002 node .",
     "posttest": "npm run lint"
   },
   "dependencies": {
